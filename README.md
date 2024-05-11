@@ -15,3 +15,7 @@ YOLOv8, the latest edition in the YOLO family, brings improvements in speed and 
 - **Real-time detection**: Ensures fast performance suitable for applications requiring immediate results.
 - **High accuracy**: Improvements over previous models make it more reliable for critical applications.
 - **Adaptability**: Can be easily adapted to various object detection needs.
+
+## Inference
+
+![image](https://github.com/Vu0401/MOT17-YOLOv8/assets/93986576/6b7a22d6-1c1c-45bb-a4a4-3880e82fdc3f)
